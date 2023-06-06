@@ -2,7 +2,7 @@ extern crate serde;
 #[macro_use]
 extern crate serde_derive;
 extern crate serde_json;
-use std::collections::HashMap;
+use std::collections::BTreeMap;
 use std::env;
 use std::fs;
 
@@ -12,12 +12,12 @@ struct Repos {
     id: String,
     url: String,
     author: String,
-    packages: HashMap<String, Versions>,
+    packages: BTreeMap<String, Versions>,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
 struct Versions {
-    versions: HashMap<String, Package>,
+    versions: BTreeMap<String, Package>,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -84,7 +84,7 @@ async fn update_kanikama(
         repos.packages.insert(
             package.name.to_string(),
             Versions {
-                versions: HashMap::new(),
+                versions: BTreeMap::new(),
             },
         );
     }
