@@ -17,7 +17,34 @@ jobs:
             ~/.cargo/git/db/
             target/
           key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
+      - name: Set current datetime as env variable
+        env:
+          TZ: "Asia/Tokyo"
+        run: echo "CURRENT_DATETIME=$(date +'%Y%m%d%H%M%S')" >> $GITHUB_ENV
+
+      - name: Create new branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          git switch -c ci/${{ env.CURRENT_DATETIME }}
+          git push -u origin ci/${{ env.CURRENT_DATETIME }}
+
       - name: Run CI
         run: |
           cd ci
           cargo run
+
+      - name: Add and Commit
+        uses: EndBug/add-and-commit@v7
+        with:
+          branch: ci/${{ env.CURRENT_DATETIME }}
+          message: "update list"
+          add: "./docs/index.json"
+
+      - name: Create pull request
+        uses: repo-sync/pull-request@v2
+        with:
+          source_branch: ci/${{ env.CURRENT_DATETIME }}
+          destination_branch: main
+          pr_title: "Update List"
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
