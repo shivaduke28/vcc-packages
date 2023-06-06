@@ -77,7 +77,7 @@ async fn update_kanikama(
     let mut package: Package = serde_json::from_str(&package_json_str).unwrap();
 
     // insert url to package.json
-    package.url = String::from(PACKAGES_DIR_GIT_PATH) + "/" + PACKAGE_NAME_KANIKAMA + "#" + tag;
+    package.url = String::from(PACKAGES_DIR_GIT_PATH) + "/" + package_name + "#" + tag;
 
     // add versions to repos if not contained
     if !repos.packages.contains_key(&package.name) {
