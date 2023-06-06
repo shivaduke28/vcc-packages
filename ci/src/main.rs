@@ -51,12 +51,11 @@ const LATEST_RELEASE_URL: &str =
     "https://api.github.com/repos/shivaduke28/kanikama/releases/latest";
 const RAW_REPOSITORY_URL: &str = "https://raw.githubusercontent.com/shivaduke28/kanikama";
 
-const PACKAGES_DIR_GIT_PATH: &str =
-    "https://github.com/shivaduke28/kanikama.git?path=/Kanikama/Packages";
-
 const PACKAGE_NAME_KANIKAMA: &str = "net.shivaduke28.kanikama";
 const PACKAGE_NAME_KANIKAMA_BAKERY: &str = "net.shivaduke28.kanikama.bakery";
 const PACKAGE_NAME_KANIKAMA_UDON: &str = "net.shivaduke28.kanikama.udon";
+
+const DOWNLOAD_URL: &str = "https://github.com/shivaduke28/kanikama/releases/download";
 
 static APP_USER_AGENT: &str = concat!(env!("CARGO_PKG_NAME"), "/", env!("CARGO_PKG_VERSION"),);
 
@@ -77,7 +76,14 @@ async fn update_kanikama(
     let mut package: Package = serde_json::from_str(&package_json_str).unwrap();
 
     // insert url to package.json
-    package.url = String::from(PACKAGES_DIR_GIT_PATH) + "/" + package_name + "#" + tag;
+    package.url = String::from(DOWNLOAD_URL)
+        + "/"
+        + tag
+        + "/"
+        + package_name
+        + "-"
+        + &package.version
+        + ".zip";
 
     // add versions to repos if not contained
     if !repos.packages.contains_key(&package.name) {
@@ -126,8 +132,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         PACKGE_LIST_JSON_PATH,
         serde_json::to_string_pretty(&repos).unwrap(),
     );
-
-    dbg!(repos);
 
     Ok(())
 }
