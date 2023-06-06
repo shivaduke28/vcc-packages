@@ -127,5 +127,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         serde_json::to_string_pretty(&repos).unwrap(),
     );
 
+    dbg!(repos);
+
     Ok(())
 }
