@@ -18,6 +18,19 @@
             "url": "https://github.com/shivaduke28"
           },
           "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b4/net.shivaduke28.kanikama-3.0.0-beta.4.zip"
+        },
+        "3.0.0-beta.5": {
+          "name": "net.shivaduke28.kanikama",
+          "displayName": "Kanikama",
+          "version": "3.0.0-beta.5",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b5/net.shivaduke28.kanikama-3.0.0-beta.5.zip"
         }
       }
     },
@@ -35,6 +48,19 @@
             "url": "https://github.com/shivaduke28"
           },
           "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b4/net.shivaduke28.kanikama.bakery-3.0.0-beta.4.zip"
+        },
+        "3.0.0-beta.5": {
+          "name": "net.shivaduke28.kanikama.bakery",
+          "displayName": "Kanikama Bakery",
+          "version": "3.0.0-beta.5",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b5/net.shivaduke28.kanikama.bakery-3.0.0-beta.5.zip"
         }
       }
     },
@@ -52,6 +78,19 @@
             "url": "https://github.com/shivaduke28"
           },
           "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b4/net.shivaduke28.kanikama.udon-3.0.0-beta.4.zip"
+        },
+        "3.0.0-beta.5": {
+          "name": "net.shivaduke28.kanikama.udon",
+          "displayName": "Kanikama Udon",
+          "version": "3.0.0-beta.5",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b5/net.shivaduke28.kanikama.udon-3.0.0-beta.5.zip"
         }
       }
     }
