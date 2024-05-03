@@ -109,6 +109,19 @@
             "url": "https://github.com/shivaduke28"
           },
           "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.1/net.shivaduke28.kanikama-3.0.1.zip"
+        },
+        "3.0.2": {
+          "name": "net.shivaduke28.kanikama",
+          "displayName": "Kanikama",
+          "version": "3.0.2",
+          "unity": "2022.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.2/net.shivaduke28.kanikama-3.0.2.zip"
         }
       }
     },
@@ -217,6 +230,19 @@
             "url": "https://github.com/shivaduke28"
           },
           "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.1/net.shivaduke28.kanikama.bakery-3.0.1.zip"
+        },
+        "3.0.2": {
+          "name": "net.shivaduke28.kanikama.bakery",
+          "displayName": "Kanikama Bakery",
+          "version": "3.0.2",
+          "unity": "2022.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.2/net.shivaduke28.kanikama.bakery-3.0.2.zip"
         }
       }
     },
@@ -325,6 +351,19 @@
             "url": "https://github.com/shivaduke28"
           },
           "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.1/net.shivaduke28.kanikama.udon-3.0.1.zip"
+        },
+        "3.0.2": {
+          "name": "net.shivaduke28.kanikama.udon",
+          "displayName": "Kanikama Udon",
+          "version": "3.0.2",
+          "unity": "2022.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.2/net.shivaduke28.kanikama.udon-3.0.2.zip"
         }
       }
     }
