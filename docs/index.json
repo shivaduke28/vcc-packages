@@ -6,6 +6,19 @@
   "packages": {
     "net.shivaduke28.kanikama": {
       "versions": {
+        "3.0.0": {
+          "name": "net.shivaduke28.kanikama",
+          "displayName": "Kanikama",
+          "version": "3.0.0",
+          "unity": "2022.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0/net.shivaduke28.kanikama-3.0.0.zip"
+        },
         "3.0.0-beta.4": {
           "name": "net.shivaduke28.kanikama",
           "displayName": "Kanikama",
@@ -18,11 +31,141 @@
             "url": "https://github.com/shivaduke28"
           },
           "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b4/net.shivaduke28.kanikama-3.0.0-beta.4.zip"
+        },
+        "3.0.0-beta.5": {
+          "name": "net.shivaduke28.kanikama",
+          "displayName": "Kanikama",
+          "version": "3.0.0-beta.5",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b5/net.shivaduke28.kanikama-3.0.0-beta.5.zip"
+        },
+        "3.0.0-beta.6": {
+          "name": "net.shivaduke28.kanikama",
+          "displayName": "Kanikama",
+          "version": "3.0.0-beta.6",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b6/net.shivaduke28.kanikama-3.0.0-beta.6.zip"
+        },
+        "3.0.0-beta.7": {
+          "name": "net.shivaduke28.kanikama",
+          "displayName": "Kanikama",
+          "version": "3.0.0-beta.7",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b7/net.shivaduke28.kanikama-3.0.0-beta.7.zip"
+        },
+        "3.0.0-beta.8": {
+          "name": "net.shivaduke28.kanikama",
+          "displayName": "Kanikama",
+          "version": "3.0.0-beta.8",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b8/net.shivaduke28.kanikama-3.0.0-beta.8.zip"
+        },
+        "3.0.0-beta.9": {
+          "name": "net.shivaduke28.kanikama",
+          "displayName": "Kanikama",
+          "version": "3.0.0-beta.9",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b9/net.shivaduke28.kanikama-3.0.0-beta.9.zip"
+        },
+        "3.0.1": {
+          "name": "net.shivaduke28.kanikama",
+          "displayName": "Kanikama",
+          "version": "3.0.1",
+          "unity": "2022.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.1/net.shivaduke28.kanikama-3.0.1.zip"
+        },
+        "3.0.2": {
+          "name": "net.shivaduke28.kanikama",
+          "displayName": "Kanikama",
+          "version": "3.0.2",
+          "unity": "2022.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.2/net.shivaduke28.kanikama-3.0.2.zip"
+        },
+        "3.0.3": {
+          "name": "net.shivaduke28.kanikama",
+          "displayName": "Kanikama",
+          "version": "3.0.3",
+          "unity": "2021.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.3/net.shivaduke28.kanikama-3.0.3.zip"
+        },
+        "3.0.4-beta.1": {
+          "name": "net.shivaduke28.kanikama",
+          "displayName": "Kanikama",
+          "version": "3.0.4-beta.1",
+          "unity": "2021.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.4b1/net.shivaduke28.kanikama-3.0.4-beta.1.zip"
         }
       }
     },
     "net.shivaduke28.kanikama.bakery": {
       "versions": {
+        "3.0.0": {
+          "name": "net.shivaduke28.kanikama.bakery",
+          "displayName": "Kanikama Bakery",
+          "version": "3.0.0",
+          "unity": "2022.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0/net.shivaduke28.kanikama.bakery-3.0.0.zip"
+        },
         "3.0.0-beta.4": {
           "name": "net.shivaduke28.kanikama.bakery",
           "displayName": "Kanikama Bakery",
@@ -35,11 +178,141 @@
             "url": "https://github.com/shivaduke28"
           },
           "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b4/net.shivaduke28.kanikama.bakery-3.0.0-beta.4.zip"
+        },
+        "3.0.0-beta.5": {
+          "name": "net.shivaduke28.kanikama.bakery",
+          "displayName": "Kanikama Bakery",
+          "version": "3.0.0-beta.5",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b5/net.shivaduke28.kanikama.bakery-3.0.0-beta.5.zip"
+        },
+        "3.0.0-beta.6": {
+          "name": "net.shivaduke28.kanikama.bakery",
+          "displayName": "Kanikama Bakery",
+          "version": "3.0.0-beta.6",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b6/net.shivaduke28.kanikama.bakery-3.0.0-beta.6.zip"
+        },
+        "3.0.0-beta.7": {
+          "name": "net.shivaduke28.kanikama.bakery",
+          "displayName": "Kanikama Bakery",
+          "version": "3.0.0-beta.7",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b7/net.shivaduke28.kanikama.bakery-3.0.0-beta.7.zip"
+        },
+        "3.0.0-beta.8": {
+          "name": "net.shivaduke28.kanikama.bakery",
+          "displayName": "Kanikama Bakery",
+          "version": "3.0.0-beta.8",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b8/net.shivaduke28.kanikama.bakery-3.0.0-beta.8.zip"
+        },
+        "3.0.0-beta.9": {
+          "name": "net.shivaduke28.kanikama.bakery",
+          "displayName": "Kanikama Bakery",
+          "version": "3.0.0-beta.9",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b9/net.shivaduke28.kanikama.bakery-3.0.0-beta.9.zip"
+        },
+        "3.0.1": {
+          "name": "net.shivaduke28.kanikama.bakery",
+          "displayName": "Kanikama Bakery",
+          "version": "3.0.1",
+          "unity": "2022.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.1/net.shivaduke28.kanikama.bakery-3.0.1.zip"
+        },
+        "3.0.2": {
+          "name": "net.shivaduke28.kanikama.bakery",
+          "displayName": "Kanikama Bakery",
+          "version": "3.0.2",
+          "unity": "2022.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.2/net.shivaduke28.kanikama.bakery-3.0.2.zip"
+        },
+        "3.0.3": {
+          "name": "net.shivaduke28.kanikama.bakery",
+          "displayName": "Kanikama Bakery",
+          "version": "3.0.3",
+          "unity": "2021.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.3/net.shivaduke28.kanikama.bakery-3.0.3.zip"
+        },
+        "3.0.4-beta.1": {
+          "name": "net.shivaduke28.kanikama.bakery",
+          "displayName": "Kanikama Bakery",
+          "version": "3.0.4-beta.1",
+          "unity": "2021.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.4b1/net.shivaduke28.kanikama.bakery-3.0.4-beta.1.zip"
         }
       }
     },
     "net.shivaduke28.kanikama.udon": {
       "versions": {
+        "3.0.0": {
+          "name": "net.shivaduke28.kanikama.udon",
+          "displayName": "Kanikama Udon",
+          "version": "3.0.0",
+          "unity": "2022.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0/net.shivaduke28.kanikama.udon-3.0.0.zip"
+        },
         "3.0.0-beta.4": {
           "name": "net.shivaduke28.kanikama.udon",
           "displayName": "Kanikama Udon",
@@ -52,6 +325,123 @@
             "url": "https://github.com/shivaduke28"
           },
           "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b4/net.shivaduke28.kanikama.udon-3.0.0-beta.4.zip"
+        },
+        "3.0.0-beta.5": {
+          "name": "net.shivaduke28.kanikama.udon",
+          "displayName": "Kanikama Udon",
+          "version": "3.0.0-beta.5",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b5/net.shivaduke28.kanikama.udon-3.0.0-beta.5.zip"
+        },
+        "3.0.0-beta.6": {
+          "name": "net.shivaduke28.kanikama.udon",
+          "displayName": "Kanikama Udon",
+          "version": "3.0.0-beta.6",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b6/net.shivaduke28.kanikama.udon-3.0.0-beta.6.zip"
+        },
+        "3.0.0-beta.7": {
+          "name": "net.shivaduke28.kanikama.udon",
+          "displayName": "Kanikama Udon",
+          "version": "3.0.0-beta.7",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b7/net.shivaduke28.kanikama.udon-3.0.0-beta.7.zip"
+        },
+        "3.0.0-beta.8": {
+          "name": "net.shivaduke28.kanikama.udon",
+          "displayName": "Kanikama Udon",
+          "version": "3.0.0-beta.8",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b8/net.shivaduke28.kanikama.udon-3.0.0-beta.8.zip"
+        },
+        "3.0.0-beta.9": {
+          "name": "net.shivaduke28.kanikama.udon",
+          "displayName": "Kanikama Udon",
+          "version": "3.0.0-beta.9",
+          "unity": "2019.4",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.0b9/net.shivaduke28.kanikama.udon-3.0.0-beta.9.zip"
+        },
+        "3.0.1": {
+          "name": "net.shivaduke28.kanikama.udon",
+          "displayName": "Kanikama Udon",
+          "version": "3.0.1",
+          "unity": "2022.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.1/net.shivaduke28.kanikama.udon-3.0.1.zip"
+        },
+        "3.0.2": {
+          "name": "net.shivaduke28.kanikama.udon",
+          "displayName": "Kanikama Udon",
+          "version": "3.0.2",
+          "unity": "2022.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.2/net.shivaduke28.kanikama.udon-3.0.2.zip"
+        },
+        "3.0.3": {
+          "name": "net.shivaduke28.kanikama.udon",
+          "displayName": "Kanikama Udon",
+          "version": "3.0.3",
+          "unity": "2021.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.3/net.shivaduke28.kanikama.udon-3.0.3.zip"
+        },
+        "3.0.4-beta.1": {
+          "name": "net.shivaduke28.kanikama.udon",
+          "displayName": "Kanikama Udon",
+          "version": "3.0.4-beta.1",
+          "unity": "2021.3",
+          "description": "NICE GI...",
+          "author": {
+            "name": "shivaduke28",
+            "email": "shivaduke28@gmail.com",
+            "url": "https://github.com/shivaduke28"
+          },
+          "url": "https://github.com/shivaduke28/kanikama/releases/download/v3.0.4b1/net.shivaduke28.kanikama.udon-3.0.4-beta.1.zip"
         }
       }
     }
