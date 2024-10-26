@@ -126,7 +126,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     update_kanikama(&mut repos, &tag, PACKAGE_NAME_KANIKAMA).await?;
     update_kanikama(&mut repos, &tag, PACKAGE_NAME_KANIKAMA_BAKERY).await?;
-    update_kanikama(&mut repos, &tag, PACKAGE_NAME_KANIKAMA_UDON).await?;
+    // update_kanikama(&mut repos, &tag, PACKAGE_NAME_KANIKAMA_UDON).await?;
 
     let _ = fs::write(
         PACKGE_LIST_JSON_PATH,
